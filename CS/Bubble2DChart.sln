@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble2DChart", "Bubble2DChart\Bubble2DChart.csproj", "{5E33AE49-A92D-42D2-9586-5CB37ABE95CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble2DChart.Web", "Bubble2DChart.Web\Bubble2DChart.Web.csproj", "{BFB880D2-7E03-40B4-B65A-79B7970C326B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E33AE49-A92D-42D2-9586-5CB37ABE95CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E33AE49-A92D-42D2-9586-5CB37ABE95CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E33AE49-A92D-42D2-9586-5CB37ABE95CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E33AE49-A92D-42D2-9586-5CB37ABE95CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB880D2-7E03-40B4-B65A-79B7970C326B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB880D2-7E03-40B4-B65A-79B7970C326B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB880D2-7E03-40B4-B65A-79B7970C326B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB880D2-7E03-40B4-B65A-79B7970C326B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
